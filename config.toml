@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Red Hat Solutions Architecture Setup Guide"
+theme = "ananke"
+disableHugoGeneratorInject = "true"
+enableGitInfo = "true"
+verbose = "true"
